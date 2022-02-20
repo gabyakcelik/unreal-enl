@@ -1,0 +1,11 @@
+FileVersion:2
+Type:Static
+Guid:67F2770B-4AC7-3E2F-B033-71AB49C18558
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/StarterContent/Materials/M_Brick_Hewn_Stone.M_Brick_Hewn_Stone
+/Game/StarterContent/Materials/M_CobbleStone_Pebble.M_CobbleStone_Pebble
+/Game/StarterContent/Materials/M_CobbleStone_Rough.M_CobbleStone_Rough
+/Game/StarterContent/Materials/M_CobbleStone_Smooth.M_CobbleStone_Smooth
+/Game/StarterContent/Materials/M_Concrete_Grime.M_Concrete_Grime
+/Game/StarterContent/Materials/M_Concrete_Tiles.M_Concrete_Tiles
