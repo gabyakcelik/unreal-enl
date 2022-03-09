@@ -2,5 +2,12 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Vitruvio",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/9bf931969c174491bd9a7ca517a40653"
+		}
+	]
 }
